@@ -1,0 +1,5 @@
+name: XinSta
+main: top.mcocet.status.Main
+version: 1.0.0
+description: Pins a live bot status line at the top of the terminal
+author: mcocet
